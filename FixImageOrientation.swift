@@ -1,10 +1,7 @@
-//
 //  FixImageOrientation.swift
-//  MySub
 //
-//  Created by Tarungiri Gosai on 22/01/18.
-//  Copyright © 2018 Sanjay Shah. All rights reserved.
-//
+//  Created by Gosai Tarun on 22/01/18.
+//  Copyright © 2018 Gosai Tarun. All rights reserved.
 
 import Foundation
 
